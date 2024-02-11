@@ -1,3 +1,5 @@
 ﻿  Lb1_Task1.cpp
-C:\Users\danel\source\repos\Lb1_Task1\Lb1_Task1\Lb1_Task1.cpp(48,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Lb1_Task1.vcxproj -> C:\Users\danel\source\repos\Lb1_Task1\x64\Debug\Lb1_Task1.exe
+C:\Users\danel\source\Lb1\Lb1_Task1\Lb1_Task1.cpp(51,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\danel\source\Lb1\Lb1_Task1\Lb1_Task1.cpp(225,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danel\source\Lb1\Lb1_Task1\Lb1_Task1.cpp(226,40): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Lb1_Task1.vcxproj -> C:\Users\danel\source\Lb1\x64\Debug\Lb1_Task1.exe
